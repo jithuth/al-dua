@@ -274,7 +274,7 @@
             	<Run Text=""/>
             </TextBlock>
         </ScrollViewer>
-        <TextBlock Margin="10,10,10,528" TextWrapping="Wrap" TextAlignment="Center" FontFamily="ms-appx:DC60.TTF#ML-TTRevathi" FontSize="32" Foreground="#FF0FAC88" SelectionChanged="TextBlock_SelectionChanged" Text="hkv{X[mcW acymZbpambn _Ôs¸« ZnIvdpIÄ"/>
+        <TextBlock Margin="10,10,10,451" TextWrapping="Wrap" TextAlignment="Center" FontFamily="ms-appx:DC60.TTF#ML-TTRevathi" FontSize="32" Foreground="#FF0FAC88" SelectionChanged="TextBlock_SelectionChanged" Text="hkv{X[mcW acymZbpambn _Ôs¸« ZnIvdpIÄ"/>
 
 
     </Grid>

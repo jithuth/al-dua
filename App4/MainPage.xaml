@@ -43,13 +43,11 @@
     </Grid>
     <Page.BottomAppBar>
         <CommandBar Foreground="#FF04558A" BorderBrush="{x:Null}" Background="White">
-            <AppBarButton Label="" Icon="Target" Click="m_Click" Background="Red"/>
-           
+            <AppBarButton Label="About" Icon="ContactInfo" Click="AboutButton_Click" Background="Red"/>
+            <AppBarButton Label="Share App" Icon="ReShare" Click="shareapp" Background="Red"/>
 
             <CommandBar.SecondaryCommands>
-                <AppBarButton Label="Edit" Icon="Edit" Click="AboutButton_Click" Background="Red"/>
-                <AppBarButton Label="Remove" Icon="Remove" Click="AppBarButton_Click" Background="Red"/>
-                <AppBarButton Label="Add" Icon="Add" Click="AppBarButton_Click" Background="Red"/>
+               
             </CommandBar.SecondaryCommands>
         </CommandBar>
     </Page.BottomAppBar>

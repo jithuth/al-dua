@@ -16,6 +16,7 @@ using Windows.UI.Xaml.Data;
 using Windows.UI.Xaml.Input;
 using Windows.UI.Xaml.Media;
 using Windows.UI.Xaml.Navigation;
+using Windows.ApplicationModel.DataTransfer;
 
 // The Blank Page item template is documented at http://go.microsoft.com/fwlink/?LinkId=391641
 
@@ -32,6 +33,10 @@ namespace App4
 
             this.NavigationCacheMode = NavigationCacheMode.Required;
 
+            DataTransferManager dataTransferManager = DataTransferManager.GetForCurrentView();
+            dataTransferManager.DataRequested += new TypedEventHandler<DataTransferManager,
+DataRequestedEventArgs>(this.ShareTextHandler);
+
 
             
         }
@@ -41,6 +46,23 @@ namespace App4
         /// </summary>
         /// <param name="e">Event data that describes how this page was reached.
         /// This parameter is typically used to configure the page.</param>
+
+        private void RegisterForShare()
+        {
+            DataTransferManager dataTransferManager = DataTransferManager.GetForCurrentView();
+            dataTransferManager.DataRequested += new TypedEventHandler<DataTransferManager, DataRequestedEventArgs>(this.ShareTextHandler);
+        }
+
+        private void ShareTextHandler(DataTransferManager sender, DataRequestedEventArgs e)
+        {
+            DataRequest request = e.Request;
+            // The Title is mandatory
+            request.Data.Properties.Title = "Al-Dua";
+            request.Data.Properties.Description = "";
+            request.Data.SetText("you can get this app from this link ");
+        }
+
+
         protected override void OnNavigatedTo(NavigationEventArgs e)
         {
             // TODO: Prepare page for display here.
@@ -139,6 +161,13 @@ this.Frame.Navigate(typeof(tolet));
             this.Frame.Navigate(typeof(quran));
         }
 
-       }
+        private void shareapp(object sender, RoutedEventArgs e)
+        {
+            RegisterForShare();
+        }
+
+
+        
+    }
     }
 
