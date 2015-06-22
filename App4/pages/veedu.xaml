@@ -1,0 +1,30 @@
+﻿<Page
+    x:Class="App4.pages.veedu"
+    xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+    xmlns:local="using:App4.pages"
+    xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+    xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+    mc:Ignorable="d"
+    Background="{ThemeResource ApplicationPageBackgroundThemeBrush}">
+
+
+    <Grid Background="White">
+        <ScrollViewer Margin="10,134,10,10">
+            <TextBlock TextAlignment="Center" TextWrapping="Wrap"  FontFamily="ms-appx:DC60.TTF#ML-TTRevathi" FontSize="24" Foreground="#FF0FAC88" SelectionChanged="TextBlock_SelectionChanged" Text="ho«nÂ {]thin¡pt¼mÄ&#xD;&#xA;&#xD;&#xA; _nkvan sNmÃpI.&#xD;&#xA; kemw ]dbpI.&#xD;&#xA;&#xD;&#xA;AÃmlphnsâ dkqÂr ]dªp: &quot;&quot;HcmÄ Xsâ ho«nÂ {]th-in¡pIbpw Xsâ {]thi\thfbnepw `£Wthfbnepw AÃm-lpsh kvacn¡pIbpambmÂ ssiXzm³ (Xsâ Iq«pImtcmSpw IqsSbpÅhtcmSpw) ]dbpw: &quot;\n§Ä¡v (ChnsS) A'nbpd§p-hm\pw cm{Xn`£W¯n\pw bmsXmcp hgnbpanÃ'. HcmÄ Xsâ ho«nÂ {]thin¡pt¼mÄ, Xsâ {]thi\ thfbnÂ AÃmlp-sh kvacn¡phm³ ad¶mÂ ssiXzm³ (Xsâ Iq«pImtcmSpw IqsSbpÅhtcmSpw) ]dbpw: &quot;\n§Ä (ChnsS) A'nbpd¡w t\Snbncn¡p¶p'-. Xsâ `£WthfbnÂ AÃmlpsh kvacn¡p-hm³ ad¶mÂ ssiXzm³ (Xsâ Iq«pImtcmSpw IqsSbpÅhtcm-Spw)- ]dbpw: &quot;\n§Ä (ChnsS) A'nbpd¡hpw cm{Xn`£Whpw t\Snbncn¡p¶p.'' (apkvenw)-&#xD;&#xA;&#xD;&#xA;ho«nÂ\n¶v ]pds¸Spt¼mÄ&#xD;&#xA;&#xD;&#xA;&#xD;&#xA;AÃmlphnsâ \ma¯nÂ (Rm³ ]pds¸Sp¶p), Rm³ AÃmlphnÂ `ctaÂ]-n¨ncn¡p¶p. AÃmlpshs¡m-­ÃmsX bmsXmcp Ignhpw Ne\tijnbpanÃ-.&#xD;&#xA;HcmÄ Xsâ ho«nÂ\n¶pw ]pds¸-Spt¼mÄ C{]Imcw {]mÀ-Yn¨mepÅ ^ehpw al¯-zhpambn _Ôs¸«v AÃmlphnsâ dkqÂr ]dªp: &quot;&quot;At¶cw AbmtfmSv ]dbs¸Spw:- &quot;(aäpÅhcp-sS Xn·bnÂ\n¶v) \o XSbs¸«p, \o kwc£n¡s¸«p. \o k-·mÀKw kn²n¨h\mbn'-. ]nimNv Ah\nÂ\n¶v AI¶v \nÂ-¡pw. F¶n«v asämcp ]nimNnt\mSv ]dbpw: &quot;\o F§s\ Hcmfn-te¡v sNÃpw? XoÀ¨bmbpw AbmÄ¡v k·mÀKw kn²n¨ncn-¡p¶p. aäpÅhcnÂ\n¶pÅ Xn· AbmÄ¡v XSbs¸«ncn¡p-¶p. AbmÄ kwc£n¡s¸SpIbpw sNbvXncn¡p¶p.'' (kp\\p A_oZmhqZv.- lZoYns\ C_v\p_mkv Xplv^bnÂ lks\¶pw AÂ_m\n kzlosl¶pw hntijn¸n¨n«p­v.)&#xD;&#xA;AÃmlpth, Rm³ hgn]ng¡p¶XnÂ\n¶pw hgn]ng¸n-¡s¸Sp¶XnÂ\n¶pw hyXnNen¡p¶XnÂ\n¶pw hy-XnNen¸n¡s¸Sp¶XnÂ\n¶pw A{Ian¡p¶XnÂ\n-¶pw A{Ian¡s¸Sp¶XnÂ\n¶pw AhnthIw {]hr-¯n¡p¶XnÂ\n¶pw Ft¶mSv AhnthIw ImWn¡-s¸Sp¶XnÂ\n¶pw \n¶nÂ Rm³ A`bw tXSp¶p-.&#xD;&#xA;&#xD;&#xA;&#xD;&#xA;\_nr ho«nÂ\n¶v Cd§pt¼mÄ BImi¯nte¡v I®p\-SpIbpw  Cu ZpB sNmÃpIbpw sN¿msX ]pds¸SmdnÃmbncp-¶p F¶v D½pkeaxbnÂ\n¶pw Camw A_qZmhqZpw aäpw dnt¸mÀ«v sNbvXn«p­v. AÂ_m\n lZoYns\ kzlosl¶v hn-tijn¸n¨n«p­v.&#xD;&#xA;"/>
+        </ScrollViewer>
+        <TextBlock Margin="10,10,10,451" TextWrapping="Wrap" TextAlignment="Center" FontFamily="ms-appx:DC60.TTF#ML-TTRevathi" FontSize="32" Foreground="#FF0FAC88">
+        	<Run FontWeight="Bold" Text="hoSpambn _Ôs¸«"/>
+        	<LineBreak/>
+        	<Run FontWeight="Bold" Text="ZnIvdpIÄ"/>
+        </TextBlock>
+
+
+    </Grid>
+    <Page.BottomAppBar>
+        <CommandBar Background="White" Foreground="#FF0FAC88">
+            <AppBarButton Label="Home" Icon="Home" Click="AppBarButton_Click"/>
+
+        </CommandBar>
+    </Page.BottomAppBar>
+</Page>

@@ -1,0 +1,520 @@
+﻿<Page
+    x:Class="App4.pages.situation"
+    xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+    xmlns:local="using:App4.pages"
+    xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+    xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+    mc:Ignorable="d"
+    Background="{ThemeResource ApplicationPageBackgroundThemeBrush}">
+    <Grid Background="White">
+        <ScrollViewer Margin="10,134,10,10">
+            <TextBlock TextAlignment="Center" TextWrapping="Wrap"  FontFamily="ms-appx:DC60.TTF#ML-TTRevathi" FontSize="24" Foreground="#FF0FAC88" SelectionChanged="TextBlock_SelectionChanged">
+            	<Span>
+            		<Run Text="hnip-²-IzpÀ-B³ hnizm-kn-IÄ¡"/>
+            	</Span>
+            	<Span>
+            		<Run Text="v ia-\"/>
+            	</Span>
+            	<Span>
+            		<Run Text="-amsW¶v IzpÀ-B³ Xs¶ hyà-am-¡n-bn-«p-­v.(17:82) IzpÀ"/>
+            	</Span>
+            	<Span>
+            		<Run Text="-B-\"/>
+            	</Span>
+            	<Span>
+            		<Run Text="nse Nne A[ymb§-Ä"/>
+            	</Span>
+            	<Span>
+            		<Run Text=" HmXm\"/>
+            	</Span>
+            	<Span>
+            		<Run Text="pw DuXn ico-c-¯nÂ"/>
+            	</Span>
+            	<Span>
+            		<Run Text=" XS-hm\pw \"/>
+            	</Span>
+            	<Span>
+            		<Run Text="_n-N-cy-bnÂ sXfn-hp-­v. kqd¯pÂ^mXnlx, kpd-¯pÂ-C-Jvemkzv, kqd-¯pÂ^e-Izv, kqd-¯p-¶mkv F¶"/>
+            	</Span>
+            	<Span>
+            		<Run Text="nh DZm-l-c-Ww."/>
+            	</Span>
+            	<LineBreak/>
+            	<Span>
+            		<Run Text="a{"/>
+            	</Span>
+            	<Span>
+            		<Run Text="'n¨v NnInÕn¨psIm­ncp¶"/>
+            	</Span>
+            	<Span>
+            		<Run Text=" Hcp alXntbmSv \"/>
+            	</Span>
+            	<Span>
+            		<Run Text="_nr ]dª"/>
+            	</Span>
+            	<Span>
+            		<Run Text="p:- &quot;&quot;\"/>
+            	</Span>
+            	<Span>
+            		<Run Text="n§Ä- Ahsc AÃmlphnsâ"/>
+            	</Span>
+            	<Span>
+            		<Run Text="- {"/>
+            	</Span>
+            	<Span>
+            		<Run Text="KÙwsIm­v- NnIn-Õn¡"/>
+            	</Span>
+            	<Span>
+            		<Run Text="pI'' (kzlolp C_v\"/>
+            	</Span>
+            	<Span>
+            		<Run Text="nlnºm³"/>
+            	</Span>
+            	<Span>
+            		<Run Text=". B[p-\"/>
+            	</Span>
+            	<Span>
+            		<Run Text="nI bpK-¯"/>
+            	</Span>
+            	<Span>
+            		<Run Text="nse {"/>
+            	</Span>
+            	<Span>
+            		<Run Text="]K-Û-\mb lZoYv ]Þn-X³"/>
+            	</Span>
+            	<Span>
+            		<Run Text=" ssiJv \"/>
+            	</Span>
+            	<Span>
+            		<Run Text="mkzn-dp-±o³ AÂ"/>
+            	</Span>
+            	<Span>
+            		<Run Text="_m\"/>
+            	</Span>
+            	<Span>
+            		<Run Text="n-bpsS ho£-W-¯nÂ"/>
+            	</Span>
+            	<Span>
+            		<Run Text=" Cu lZoYv {]_-e-X-bps"/>
+            	</Span>
+            	<Span>
+            		<Run Text="S Imcy-¯nÂ kzlo-lnsâ"/>
+            	</Span>
+            	<Span>
+            		<Run Text=" hnXm-\"/>
+            	</Span>
+            	<Span>
+            		<Run Text="-¯n-se-¯p-¶n-Ã. lk³ F¶mWv At±lw Cu dnt¸mÀ«"/>
+            	</Span>
+            	<Span>
+            		<Run Text="ns\"/>
+            	</Span>
+            	<Span>
+            		<Run Text=" hntijn¸n¡p¶"/>
+            	</Span>
+            	<Span>
+            		<Run Text="-Xv)."/>
+            	</Span>
+            	<LineBreak/>
+            	<Span>
+            		<Run Text="kp¶¯nÂ Øncs¸«"/>
+            	</Span>
+            	<Span>
+            		<Run Text=" GXm\pw a{"/>
+            	</Span>
+            	<Span>
+            		<Run Text="'§"/>
+            	</Span>
+            	<Span>
+            		<Run Text="fpw ChnsS \"/>
+            	</Span>
+            	<Span>
+            		<Run Text="ÂIp-¶"/>
+            	</Span>
+            	<Span>
+            		<Run Text="p: "/>
+            	</Span>
+            	<LineBreak/>
+            	<Span>
+            		<Run Text="Xsâ icoc¯nÂ"/>
+            	</Span>
+            	<Span>
+            		<Run Text=" thZ\"/>
+            	</Span>
+            	<Span>
+            		<Run Text="n¡p¶ Øe¯v ssIsh¡"/>
+            	</Span>
+            	<Span>
+            		<Run Text="pI. tijw "/>
+            	</Span>
+            	<LineBreak/>
+            	<LineBreak/>
+            	<Span>
+            		<Run Text=" F¶v aq¶"/>
+            	</Span>
+            	<Span>
+            		<Run Text="pXhW ]dbpI. tijw:"/>
+            	</Span>
+            	<LineBreak/>
+            	<LineBreak/>
+            	<LineBreak/>
+            	<Span>
+            		<Run Text="Rm³"/>
+            	</Span>
+            	<Span>
+            		<Run Text=" A\"/>
+            	</Span>
+            	<Span>
+            		<Run Text="p`hn¨psIm­ncn¡pIbpw `b¶psIm­ncn-¡pIbpw sN¿p¶Xnsâ"/>
+            	</Span>
+            	<Span>
+            		<Run Text=" sI"/>
+            	</Span>
+            	<Span>
+            		<Run Text="SpXnbnÂ\n¶v AÃmlphn-epw Ahsâ Ignhnepw Rm³ A`bw tXSp¶"/>
+            	</Span>
+            	<Span>
+            		<Run Text="p. (Ggv X-hW ]dbpI).-"/>
+            	</Span>
+            	<LineBreak/>
+            	<Span>
+            		<Run Text="ssI DbÀ¯nbtijw Cu ZpB BhÀ¯n¡pIbpw Hä"/>
+            	</Span>
+            	<Span>
+            		<Run Text="bm-bn Ahkm\"/>
+            	</Span>
+            	<Span>
+            		<Run Text="n¸n¡pIbpw sN¿pI F¶mWv asämcp dnt¸mÀ«nep-ÅXv. DYvam³"/>
+            	</Span>
+            	<Span>
+            		<Run Text=" C_v\"/>
+            	</Span>
+            	<Span>
+            		<Run Text="pA_nÂBkzvt Xsâ icoc¯"/>
+            	</Span>
+            	<Span>
+            		<Run Text="nse thZ-\ \"/>
+            	</Span>
+            	<Span>
+            		<Run Text="_nrtbmSv ]dªt¸mÄ"/>
+            	</Span>
+            	<Span>
+            		<Run Text=" Xncpta\"/>
+            	</Span>
+            	<Span>
+            		<Run Text="nrAt±ls¯ ]Tn¸n¨"/>
+            	</Span>
+            	<Span>
+            		<Run Text="-Xv C{]Im"/>
+            	</Span>
+            	<Span>
+            		<Run Text="camsW¶v kzlolpapkvenanep­"/>
+            	</Span>
+            	<Span>
+            		<Run Text="v."/>
+            	</Span>
+            	<LineBreak/>
+            	<LineBreak/>
+            	<LineBreak/>
+            	<Span>
+            		<Run Text="AÃ"/>
+            	</Span>
+            	<Span>
+            		<Run Text="mlpth, P\"/>
+            	</Span>
+            	<Span>
+            		<Run Text="§fpsS c£"/>
+            	</Span>
+            	<Span>
+            		<Run Text="nXmth, D]{Zhw \o \"/>
+            	</Span>
+            	<Span>
+            		<Run Text="o-t¡"/>
+            	</Span>
+            	<Span>
+            		<Run Text="Wta, \o tcmKia\w {]Zm\"/>
+            	</Span>
+            	<Span>
+            		<Run Text="w sNt¿"/>
+            	</Span>
+            	<Span>
+            		<Run Text="Wta; \"/>
+            	</Span>
+            	<Span>
+            		<Run Text="obmIp-¶"/>
+            	</Span>
+            	<Span>
+            		<Run Text="p tcmKia\w \"/>
+            	</Span>
+            	<Span>
+            		<Run Text="ÂIp¶h³"/>
+            	</Span>
+            	<Span>
+            		<Run Text=", \"/>
+            	</Span>
+            	<Span>
+            		<Run Text="nsâ"/>
+            	</Span>
+            	<Span>
+            		<Run Text=" tcmKia\"/>
+            	</Span>
+            	<Span>
+            		<Run Text="w AÃ"/>
+            	</Span>
+            	<Span>
+            		<Run Text="m-sX bmsXmcp tcmKia\hpa"/>
+            	</Span>
+            	<Span>
+            		<Run Text="nÃ. Hcp tcmKhpw Dt]£n-¡m¯"/>
+            	</Span>
+            	<Span>
+            		<Run Text=" ia\w ({]Zm\"/>
+            	</Span>
+            	<Span>
+            		<Run Text="w sNt¿"/>
+            	</Span>
+            	<Span>
+            		<Run Text="Wta)."/>
+            	</Span>
+            	<LineBreak/>
+            	<Span>
+            		<Run Text="hÃhcpw tcmKnbmbmÂ"/>
+            	</Span>
+            	<Span>
+            		<Run Text=" \"/>
+            	</Span>
+            	<Span>
+            		<Run Text="_nr Xsâ heXpssIsIm­"/>
+            	</Span>
+            	<Span>
+            		<Run Text="v Abmsf XShn C{]Imcw a{"/>
+            	</Span>
+            	<Span>
+            		<Run Text="'n-¡mdp­mbncp¶psh¶v BCix- ]dªXmbn  kzlolpÂ_pJmcnbnepw kzlolp apkvenan-epw D­"/>
+            	</Span>
+            	<Span>
+            		<Run Text="v."/>
+            	</Span>
+            	<LineBreak/>
+            	<LineBreak/>
+            	<Span>
+            		<Run Text="P\"/>
+            	</Span>
+            	<Span>
+            		<Run Text="§fpsS c£"/>
+            	</Span>
+            	<Span>
+            		<Run Text="nXmth, D]{Zhw \"/>
+            	</Span>
+            	<Span>
+            		<Run Text="o XpS¨pamtä"/>
+            	</Span>
+            	<Span>
+            		<Run Text="Wta, \"/>
+            	</Span>
+            	<Span>
+            		<Run Text="n-sâ I¿nemIp¶"/>
+            	</Span>
+            	<Span>
+            		<Run Text="p tcmKia\"/>
+            	</Span>
+            	<Span>
+            		<Run Text="w. tcmKs¯"/>
+            	</Span>
+            	<Span>
+            		<Run Text=" \"/>
+            	</Span>
+            	<Span>
+            		<Run Text="o¡p¶"/>
+            	</Span>
+            	<Span>
+            		<Run Text="h-\mbn \"/>
+            	</Span>
+            	<Span>
+            		<Run Text="obÃmsX aämcpanÃ."/>
+            	</Span>
+            	<LineBreak/>
+            	<Span>
+            		<Run Text="\"/>
+            	</Span>
+            	<Span>
+            		<Run Text="_nr C{]Imcw a{"/>
+            	</Span>
+            	<Span>
+            		<Run Text="'n¡mdp­mbncp¶psh¶v BCix- ]dªXmbn kzlolpÂ_pJmcnbnep­"/>
+            	</Span>
+            	<Span>
+            		<Run Text="v."/>
+            	</Span>
+            	<LineBreak/>
+            	<LineBreak/>
+            	<LineBreak/>
+            	<Span>
+            		<Run Text="FÃm ]nimNp¡fnÂ\n¶pw hnjPohnIfnÂ\n¶pw _m[tbÂ]-n¡p¶ I®pIfnÂ\n¶pw AÃmlphnsâ ]cn]qÀ"/>
+            	</Span>
+            	<Span>
+            		<Run Text="WhN\"/>
+            	</Span>
+            	<Span>
+            		<Run Text="§Ä sIm­v Rm³ A`bw tXSp¶"/>
+            	</Span>
+            	<Span>
+            		<Run Text="p."/>
+            	</Span>
+            	<LineBreak/>
+            	<Span>
+            		<Run Text="lk³t, lpssk³t Ip«nIÄ¡pth­"/>
+            	</Span>
+            	<Span>
+            		<Run Text="n \_nr C{]Imcw a{"/>
+            	</Span>
+            	<Span>
+            		<Run Text="'n¨Xmbn kzlolpÂ"/>
+            	</Span>
+            	<Span>
+            		<Run Text="_pJm"/>
+            	</Span>
+            	<Span>
+            		<Run Text="cnbnep­"/>
+            	</Span>
+            	<Span>
+            		<Run Text="v."/>
+            	</Span>
+            	<LineBreak/>
+            	<LineBreak/>
+            	<Span>
+            		<Run Text="Xm¦Ä¡"/>
+            	</Span>
+            	<Span>
+            		<Run Text="v D]{"/>
+            	</Span>
+            	<Span>
+            		<Run Text="Zhap­m¡p¶ FÃm hkvXp¡fnÂ\n-¶pw, FÃ"/>
+            	</Span>
+            	<Span>
+            		<Run Text="m a\"/>
+            	</Span>
+            	<Span>
+            		<Run Text="pjycpsSbpw I®pIfpsSbpw Akqbm-ep¡fpsSbpw Xn·§fnÂ\n¶pw AÃmlphnsâ"/>
+            	</Span>
+            	<Span>
+            		<Run Text=" \"/>
+            	</Span>
+            	<Span>
+            		<Run Text="ma-¯nÂ Rm³ Xm¦Ä¡"/>
+            	</Span>
+            	<Span>
+            		<Run Text="v a{"/>
+            	</Span>
+            	<Span>
+            		<Run Text="'n¡p¶p. AÃmlp Xm¦Ä-¡"/>
+            	</Span>
+            	<Span>
+            		<Run Text="v in^ \"/>
+            	</Span>
+            	<Span>
+            		<Run Text="Â"/>
+            	</Span>
+            	<Span>
+            		<Run Text="I"/>
+            	</Span>
+            	<Span>
+            		<Run Text="s«. AÃmlphnsâ"/>
+            	</Span>
+            	<Span>
+            		<Run Text=" \"/>
+            	</Span>
+            	<Span>
+            		<Run Text="ma¯nÂ Rm³ Xm¦Ä¡"/>
+            	</Span>
+            	<Span>
+            		<Run Text="v a{"/>
+            	</Span>
+            	<Span>
+            		<Run Text="'n¡p¶"/>
+            	</Span>
+            	<Span>
+            		<Run Text="p."/>
+            	</Span>
+            	<LineBreak/>
+            	<Span>
+            		<Run Text="\"/>
+            	</Span>
+            	<Span>
+            		<Run Text="_nr tcmKnbmbt¸mÄ Pn_vcoÂ"/>
+            	</Span>
+            	<Span>
+            		<Run Text="u C{]Imcw a{"/>
+            	</Span>
+            	<Span>
+            		<Run Text="'n¨Xm-bn kzlolp apkvenanep­"/>
+            	</Span>
+            	<Span>
+            		<Run Text="v."/>
+            	</Span>
+            	<LineBreak/>
+            	<LineBreak/>
+            	<Span>
+            		<Run Text="AXnal¯-zapÅ"/>
+            	</Span>
+            	<Span>
+            		<Run Text="h\mb, alnX knwlmk-\"/>
+            	</Span>
+            	<Span>
+            		<Run Text="¯nsâ c-£nXmhmb AÃmlpthmSv, Ah³"/>
+            	</Span>
+            	<Span>
+            		<Run Text=" \n\"/>
+            	</Span>
+            	<Span>
+            		<Run Text="¡"/>
+            	</Span>
+            	<Span>
+            		<Run Text="v ia-\"/>
+            	</Span>
+            	<Span>
+            		<Run Text="w- GIp-hm³ Rm³ bmNn¡p¶"/>
+            	</Span>
+            	<Span>
+            		<Run Text="p."/>
+            	</Span>
+            	<LineBreak/>
+            	<Span>
+            		<Run Text="HcmÄ, acWw Bk¶amIm¯ Hcp tcmKnsb kµÀ-in¨v- AbmfpsS ASp¡Â"/>
+            	</Span>
+            	<Span>
+            		<Run Text=" GgpXhW C{"/>
+            	</Span>
+            	<Span>
+            		<Run Text="]Imcw ZpB sNbvXmÂ AÃmlpI AbmÄ¡v kuJytaIp¶XmWv, XoÀ¨ F¶v Camw A_qZmhqZpw XnÀapZnbpw dnt¸mÀ«v sN¿p¶ lZoYnÂ h¶n«p-­v. AÂ"/>
+            	</Span>
+            	<Span>
+            		<Run Text="_m\n lZoYns\"/>
+            	</Span>
+            	<Span>
+            		<Run Text=" kzlosl¶v hntijn¸n¨"/>
+            	</Span>
+            	<Span>
+            		<Run Text="p."/>
+            	</Span>
+            	<LineBreak/>
+            </TextBlock>
+        </ScrollViewer>
+        <TextBlock Margin="10,10,10,451" TextWrapping="Wrap" TextAlignment="Center" FontFamily="ms-appx:DC60.TTF#ML-TTRevathi" FontSize="32" Foreground="#FF0FAC88" SelectionChanged="TextBlock_SelectionChanged_1">
+        	<Span FontSize="34.6666666666667" FontFamily="ms-appx:DC60.TTF#ML-TTRevathi">
+        		<Run Text="a{"/>
+        	</Span>
+        	<Run FontWeight="Bold" FontSize="35.25" FontFamily="ML-TTRevathi" Text="'"/>
+        	<Run FontSize="34.6666666666667" Text="n¡phm³"/>
+        </TextBlock>
+
+
+    </Grid>
+    <Page.BottomAppBar>
+        <CommandBar Background="White" Foreground="#FF0FAC88">
+            <AppBarButton Label="Home" Icon="Home" Click="AppBarButton_Click"/>
+
+        </CommandBar>
+    </Page.BottomAppBar>
+</Page>
